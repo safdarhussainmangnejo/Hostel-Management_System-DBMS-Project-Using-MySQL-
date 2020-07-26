@@ -4,7 +4,7 @@
 Description and Details About DBMS Hostel Management System Semester Project in MySQL
 -------------------------------------------------------------------------------------
 DBMS Semester Project
-Developed by: Safdar Hussain (CS-IV-A) & Madan Lal (CS-IV-A)
+Developed by: Safdar Hussain (CS-IV-A) & Madan Lal (SE-IV-A)
 -------------------------------------------------------------------------------------
 The Project is consist of 2 sections:
 1> Java Coding
